@@ -1,24 +1,17 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.12",
+	"EngineAssociation": "4.22",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "MultiBoom",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "VictoryBPLibrary",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "http://www.ue4code.com"
 		},
 		{
 			"Name": "WebBrowserWidget",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
